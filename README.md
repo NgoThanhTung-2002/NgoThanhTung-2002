@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science / Software Engineering background  
-- 💼 Seeking **Intern / Junior Software Developer** position  
+- 💼 Seeking **Fresher / Junior Software Developer** position  
 - ⚙️ Interested in **Web Application, Backend Systems, Clean Architecture**
-- 🌱 Currently improving **NestJS, Spring Boot, React**
+- 🌱 Currently improving **NestJS, React**
 - 📫 Contact me via **Facebook** or **Email**
 
 ---
@@ -26,7 +26,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/Angular-DD0031?logo=nextjs&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 
 ### 🔹 Backend
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white)
@@ -46,18 +46,6 @@
 ---
 
 ## 🚀 Projects (Highlighted)
-
-### 🔸 Alarm Monitoring System
-- Backend service to receive metrics every second
-- Rule-based alarm triggering & severity classification
-- WebSocket real-time notification
-- Tech: **NestJS, PostgreSQL, WebSocket, TypeORM**
-
-### 🔸 Authentication & Authorization Module
-- JWT Authentication (access token, refresh token)
-- Role-based access control (RBAC)
-- Secure password hashing (bcrypt)
-- Tech: **NestJS / Spring Boot, JWT, MySQL**
 
 👉 More projects available in repositories.
 
