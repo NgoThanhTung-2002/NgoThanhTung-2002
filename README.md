@@ -26,13 +26,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Angular-DD0031?logo=nextjs&logoColor=white)
 
 ### 🔹 Backend
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
 
 ### 🔹 Database
@@ -74,9 +72,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NgoThanhTung-2002&layout=compact&theme=radical)
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=NgoThanhTung-2002&theme=radical&no-frame=false)
 
 ---
 
